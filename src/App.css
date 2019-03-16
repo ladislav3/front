@@ -1,0 +1,50 @@
+.card {
+    margin-top: 15px;
+    background: #000099;
+    color: #fff;
+    padding: 10px;
+}
+.card.active {
+    background: #000066;
+}
+.departureTime {
+    margin-top: 25px;
+}
+.overview {
+    background: #000066;
+    color: #fff;
+    padding: 20px;
+}
+.main-content {
+    background: #ccccb3;
+    padding: 20px;
+}
+.App {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+}
+.flex {
+    display: flex;
+}
+.flex div {
+    flex: 1;
+    text-align: center;
+}
+.on-time {
+    color: #00e600;
+}
+.center {
+    text-align: center;
+}
+.card3 .header {
+    border-bottom: 1px solid #000;
+    padding: 0 0 6px 0;
+}
+.card3 .footer {
+    border-top: 1px solid #000;
+    padding: 6px 0 0 0;
+}
+.card3 .middle {
+    padding: 10px 0;
+}
